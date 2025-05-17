@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on: **BulkMailer**
+- 🔭 I’m currently working on: **BulkMailer** - website that lets you send customised bulk mails.
 - 🌱 I’m currently learning: **WebSockets, GraphQL, DevOps**
 - 💬 Ask me about: **MERN stack, REST APIs, WebSockets, AI integrations**
 - 🛠️ Tech Stack:  
